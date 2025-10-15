@@ -1,13 +1,10 @@
-
 # Greetings Folks, I am Bhargavi
-
-> `0s & 1s meet colors & curves`
 
 ---
 
-### ✅About Me  
-I’m a **developer & UI/UX designer**.
-Fresh into the world of dev & algo  
+### ✅ About Me  
+I’m a **developer & UI/UX designer**.  
+Fresh into the world of dev & algorithms.  
 
 Currently exploring how **AI + ethical code** can transform digital experiences.  
 
@@ -16,25 +13,26 @@ Currently exploring how **AI + ethical code** can transform digital experiences.
 ### ⚙️ Tech Stack  
 
 #### 💻 Languages & Frameworks  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F7DF1E?style=for-the-badge&logo=tailwindcss&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 
 #### 🎨 Design & Motion  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![AfterEffects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=black)
+![Adobe](https://img.shields.io/badge/Adobe%20Suite-F7DF1E?style=for-the-badge&logo=adobe&logoColor=black)
+![AfterEffects](https://img.shields.io/badge/After%20Effects-F7DF1E?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-F7DF1E?style=for-the-badge&logo=canva&logoColor=black)
 
 #### ⚙️ Tools & Workflow  
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-F7DF1E?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F7DF1E?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
 ### 🚀 Currently  
-- 🧩 Learning advanced **JavaScript**, **C++** and component-based architecture  
+- 🧩 Learning advanced **JavaScript**, **C++**, and component-based architecture  
 - 🤖 Experimenting with **AI-assisted design & automation**  
 - ⚡ Building small tools and visual interfaces that *think*  
 
@@ -43,13 +41,13 @@ Currently exploring how **AI + ethical code** can transform digital experiences.
 ### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700" alt="GitHub Streak" height="160" />
 </p>
 
 ---
 
-### 📬 Reach out to me @
+### 📬 Reach out to me @  
 📧 **bhargavichaudhary803@gmail.com**
 
 ---
