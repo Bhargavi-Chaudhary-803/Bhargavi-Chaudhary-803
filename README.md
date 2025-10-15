@@ -38,15 +38,6 @@ Currently exploring how **AI + ethical code** can transform digital experiences.
 
 ---
 
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700" alt="GitHub Streak" height="160" />
-</p>
-
----
-
 ### 📬 Reach out to me @  
 📧 **bhargavichaudhary803@gmail.com**
 
