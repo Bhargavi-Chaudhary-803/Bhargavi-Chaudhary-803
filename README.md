@@ -43,4 +43,4 @@ Currently exploring how **AI + ethical code** can transform digital experiences.
 
 ---
 
-> “Code that breathes. Design that computes.”
+> “Code that breathes.”
