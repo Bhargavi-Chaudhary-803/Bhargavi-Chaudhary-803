@@ -33,11 +33,12 @@ My Work Screams  :: minimal, fast, intentional
 </p>
 
 ```html
-<pre style="font-family: 'JetBrains Mono', monospace; font-size: 20px; line-height: 1.6; color: #EEE0CB;">
-status  :: learning DSA | advanced python | DBMS
-focus   :: problem solving | UI systems | open source
-signal  :: consistency > noise
-```
+<pre style="font-family: 'JetBrains Mono', monospace; font-size: 15px; line-height: 1.6; color: #EEE0CB;">
+Who Am I         :: Bhargavi Chaudhary
+My Current Role  :: CSE Student
+Love Focusing On :: DSA | Data | UI/UX | AI
+My Work Screams  :: minimal, fast, intentional
+</pre>
 
 ## dsa.panel
 
