@@ -4,18 +4,16 @@ Palette: #000000 #4D8B31 #EEE0CB
 Minimal, sharp, terminal-driven, 5 core components only
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4D8B31&height=120&section=header&text=bhargavi%20chaudhary&fontColor=EEE0CB&font=JetBrains%20Mono&fontSize=28&fontAlignY=55" />
-</p>
 
 <p align="center">
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 16px; color: #EEE0CB;">
-    greetings folks! i am bhargavi chaudhary
+  <span style="font-family: 'JetBrains Mono', monospace; font-size: 28px; color: #EEE0CB;">
+    Greetings Folks! I am Bhargavi Chaudhary
   </span>
 </p>
 
 ---
 
+## boot.log
 ```bash
 Who Am I  :: Bhargavi Chaudhary
 My Current Role   :: CSE Student
