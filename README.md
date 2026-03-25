@@ -5,22 +5,22 @@ Minimal, sharp, terminal-driven, 5 core components only
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=4D8B31&center=true&vCenter=true&width=600&lines=bhargavi@dev:~$+run+profile;status:+active" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4D8B31&height=120&section=header&text=bhargavi%20chaudhary&fontColor=EEE0CB&font=JetBrains%20Mono&fontSize=28&fontAlignY=55" />
+</p>
+
+<p align="center">
+  <span style="font-family: 'JetBrains Mono', monospace; font-size: 16px; color: #EEE0CB;">
+    greetings folks! i am bhargavi chaudhary
+  </span>
 </p>
 
 ---
 
-## core.panel
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bhargavi%20Chaudhary&text2=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&width=800&height=200" />
-</p>
-
 ```bash
-name   :: Bhargavi Chaudhary
-role   :: CSE Student
-focus  :: DSA | Data | UI/UX | AI
-build  :: minimal, fast, intentional
+Who Am I  :: Bhargavi Chaudhary
+My Current Role   :: CSE Student
+Love Focusing On  :: DSA | Data | UI/UX | AI
+My Work Screams  :: minimal, fast, intentional
 ```
 
 ---
