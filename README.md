@@ -10,11 +10,12 @@ Minimal, sharp, terminal-driven, 5 core components only
 </p>
 
 ## boot.log
-
-**identity**   :: Bhargavi Chaudhary  
-**role**       :: CSE student · system thinker  
-**domains**    :: DSA · data · UI/UX · AI  
-**approach**   :: build clean · think deep · iterate fast
+```bash
+Who Am I  :: Bhargavi Chaudhary
+My Current Role   :: CSE Student
+Love Focusing On  :: DSA | Data | UI/UX | AI
+My Work Screams  :: minimal, fast, intentional
+```
 
 ## stack.panel
 
@@ -26,10 +27,11 @@ Minimal, sharp, terminal-driven, 5 core components only
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,supabase,figma,ps" />
 </p>
 
-## boot.log
-**Status**  :: learning DSA | advanced python | DBMS  
-**Focus**   :: problem solving | UI systems | open source  
-**Signal**  :: consistency > noise  
+```bash
+status  :: learning DSA | advanced python | DBMS
+focus   :: problem solving | UI systems | open source
+signal  :: consistency > noise
+``` 
 
 ## dsa.panel
 
