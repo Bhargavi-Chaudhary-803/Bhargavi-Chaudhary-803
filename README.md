@@ -24,7 +24,7 @@ My Work Screams  :: minimal, fast, intentional
 ## / stack.panel
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,linux,react,nextjs,tailwind" />
 </p>
 
 <p align="center">
