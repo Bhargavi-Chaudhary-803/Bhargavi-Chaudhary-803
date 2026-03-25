@@ -24,27 +24,11 @@ My Work Screams  :: minimal, fast, intentional
 ## / stack.panel
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nextjs,tailwind,git,github,vscode,mysql,supabase" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
 ```bash
