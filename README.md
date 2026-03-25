@@ -1,46 +1,121 @@
-# Greetings Folks, I am Bhargavi !
+<h1 align="center">Bhargavi Chaudhary</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;UI+%2F+UX+Designer;Data+Structures+Learner;Building+Systems+That+Matter"/>
+</p>
 
 ---
 
-### ✅ About Me  
-I’m a **developer & UI/UX designer**.  
-Fresh into the world of dev & algorithms.  
+## About
 
-Currently exploring how **AI + ethical code** can transform digital experiences.  
+Developer and UI/UX designer exploring the intersection of software engineering, algorithms and responsible AI.
 
----
+Focused on building systems that are scalable, readable and meaningful.
 
-### ⚙️ Tech Stack  
-
-#### 💻 Languages & Frameworks  
-![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F7DF1E?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-
-#### 🎨 Design & Motion  
-![Figma](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=black)
-![Adobe](https://img.shields.io/badge/Adobe%20Suite-F7DF1E?style=for-the-badge&logo=adobe&logoColor=black)
-![AfterEffects](https://img.shields.io/badge/After%20Effects-F7DF1E?style=for-the-badge&logo=adobeaftereffects&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-F7DF1E?style=for-the-badge&logo=canva&logoColor=black)
-
-#### ⚙️ Tools & Workflow  
-![VSCode](https://img.shields.io/badge/VSCode-F7DF1E?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F7DF1E?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-F7DF1E?style=for-the-badge&logo=github&logoColor=black)
+Currently studying Computer Science while strengthening problem solving through data structures and algorithms.
 
 ---
 
-### 🚀 Currently  
-- 🧩 Learning advanced **JavaScript**, **C++**, and component-based architecture  
-- 🤖 Experimenting with **AI-assisted design & automation**  
-- ⚡ Building small tools and visual interfaces that *think*  
+## Technical Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,react"/>
+</p>
+
+### Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+</p>
 
 ---
 
-### 📬 Reach out to me @  
-📧 **bhargavichaudhary803@gmail.com**
+## Developer Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhargavi-Chaudhary-803&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-Chaudhary-803&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-> “Code that breathes.”
+## Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargavi-Chaudhary-803&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## LeetCode Dashboard
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/bhargavi-chaudhary-803?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+
+</p>
+
+---
+
+## Contribution Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhargavi-Chaudhary-803&theme=tokyonight"/>
+
+---
+
+## Current Focus
+
+• Data structures and algorithms practice  
+• Advanced JavaScript and component architecture  
+• Human centered system design  
+• AI assisted development workflows  
+
+---
+
+## Selected Projects
+
+| Project | Description |
+|-------|-------------|
+| Verdian | Smart waste segregation and recycling optimization system |
+| GreenPath | Sustainability oriented development experiment |
+| UI Experiments | Interface design and interaction prototypes |
+
+---
+
+## Engineering Principles
+
+Readable code over clever code.  
+Systems designed for scale and maintainability.  
+Technology built responsibly.
+
+---
+
+## Connect
+
+Email  
+bhargavichaudhary803@gmail.com
+
+Dribbble  
+https://dribbble.com/bhargavi-chaudhary
+
+LinkedIn  
+https://linkedin.com/in/bhargavi-chaudhary-55384936a
+
+---
+
+## Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
