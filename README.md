@@ -5,28 +5,16 @@ Minimal, sharp, terminal-driven, 5 core components only
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=700&color=EEE0CB&center=true&vCenter=true&width=760&lines=booting+bhargavi%2Fprofile...;loading+core+modules...;CSE+Student+%7C+DSA+%7C+Systems;ready." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4D8B31&height=120&section=header&text=bhargavi%20chaudhary&fontColor=EEE0CB&font=JetBrains%20Mono&fontSize=28&fontAlignY=55" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4D8B31&height=190&section=header&text=bhargavi@github&fontColor=EEE0CB&fontSize=34&animation=fadeIn&fontAlignY=40&desc=clean%20systems%20%7C%20strong%20logic%20%7C%20sharp%20interfaces&descAlignY=68&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=4D8B31&center=true&vCenter=true&width=600&lines=bhargavi@dev:~$+run+profile;status:+active" />
 </p>
 
 ---
 
-## 01 / boot.log
-
-```bash
-[ kernel ] initializing profile
-[ load   ] dsa.module
-[ load   ] frontend.module
-[ load   ] design.module
-[ ok     ] system stable
-```
-
----
-
-## 02 / core.panel
+## core.panel
 
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bhargavi%20Chaudhary&text2=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&width=800&height=200" alt="core panel" />
@@ -35,13 +23,13 @@ Minimal, sharp, terminal-driven, 5 core components only
 ```bash
 name   :: Bhargavi Chaudhary
 role   :: CSE Student
-focus  :: DSA | Systems | UI
+focus  :: DSA | Data | UI/UX | AI
 build  :: minimal, fast, intentional
 ```
 
 ---
 
-## 03 / metrics.panel
+## metrics.panel
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhargavi-Chaudhary-803&show_icons=true&theme=transparent&title_color=EEE0CB&text_color=EEE0CB&icon_color=4D8B31&border_color=4D8B31&bg_color=000000" />
@@ -54,7 +42,7 @@ build  :: minimal, fast, intentional
 
 ---
 
-## 04 / dsa.panel
+## dsa.panel
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhargavi-chaudhary-803?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
@@ -67,7 +55,7 @@ mode     :: streak / consistency / pattern solving
 
 ---
 
-## 05 / activity.panel
+## activity.panel
 
 <p align="center">
   <img src="https://github.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
