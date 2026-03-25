@@ -9,20 +9,14 @@ Minimal, sharp, terminal-driven, 5 core components only
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=100000&color=EEE0CB&center=true&vCenter=true&width=700&repeat=false&lines=Greetings+Folks!+I+am+Bhargavi+Chaudhary" />
 </p>
 
-
-
 ## boot.log
-```html
-<pre style="font-family: 'JetBrains Mono', monospace; font-size: 20px; line-height: 1.6; color: #EEE0CB;">
-Who Am I  :: Bhargavi Chaudhary
-My Current Role   :: CSE Student
-Love Focusing On  :: DSA | Data | UI/UX | AI
-My Work Screams  :: minimal, fast, intentional
-```
+
+**Who Am I**         :: Bhargavi Chaudhary  
+**My Current Role**  :: CSE Student  
+**Love Focusing On** :: DSA | Data | UI/UX | AI  
+**My Work Screams**  :: minimal, fast, intentional
 
 ## stack.panel
-
-## / stack.panel
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,python,linux,react,nextjs,tailwind" />
@@ -32,13 +26,10 @@ My Work Screams  :: minimal, fast, intentional
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,supabase,figma,ps" />
 </p>
 
-```html
-<pre style="font-family: 'JetBrains Mono', monospace; font-size: 15px; line-height: 1.6; color: #EEE0CB;">
-Who Am I         :: Bhargavi Chaudhary
-My Current Role  :: CSE Student
-Love Focusing On :: DSA | Data | UI/UX | AI
-My Work Screams  :: minimal, fast, intentional
-</pre>
+## boot.log
+**Status**  :: learning DSA | advanced python | DBMS  
+**Focus**   :: problem solving | UI systems | open source  
+**Signal**  :: consistency > noise  
 
 ## dsa.panel
 
