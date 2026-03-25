@@ -11,10 +11,10 @@ Minimal, sharp, terminal-driven, 5 core components only
 
 ## boot.log
 
-**Who Am I**         :: Bhargavi Chaudhary  
-**My Current Role**  :: CSE Student  
-**Love Focusing On** :: DSA | Data | UI/UX | AI  
-**My Work Screams**  :: minimal, fast, intentional
+**identity**   :: Bhargavi Chaudhary  
+**role**       :: CSE student · system thinker  
+**domains**    :: DSA · data · UI/UX · AI  
+**approach**   :: build clean · think deep · iterate fast
 
 ## stack.panel
 
@@ -36,12 +36,6 @@ Minimal, sharp, terminal-driven, 5 core components only
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhargavi-chaudhary-803?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
-
-```html
-<pre style="font-family: 'JetBrains Mono', monospace; font-size: 20px; line-height: 1.6; color: #EEE0CB;">
-leetcode :: active
-mode     :: streak / consistency / pattern solving
-```
 
 ## activity.panel
 
