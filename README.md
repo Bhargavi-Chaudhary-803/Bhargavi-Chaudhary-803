@@ -5,10 +5,6 @@ Minimal, sharp, terminal-driven, 5 core components only
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4D8B31&height=120&section=header&text=bhargavi%20chaudhary&fontColor=EEE0CB&font=JetBrains%20Mono&fontSize=28&fontAlignY=55" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=4D8B31&center=true&vCenter=true&width=600&lines=bhargavi@dev:~$+run+profile;status:+active" />
 </p>
 
