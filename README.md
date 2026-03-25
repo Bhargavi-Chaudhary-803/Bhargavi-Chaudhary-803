@@ -6,9 +6,7 @@ Minimal, sharp, terminal-driven, 5 core components only
 
 
 <p align="center">
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 28px; color: #EEE0CB;">
-    Greetings Folks! I am Bhargavi Chaudhary
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=EEE0CB&center=true&vCenter=true&width=700&lines=Greetings+Folks!+I+am+Bhargavi+Chaudhary" />
 </p>
 
 ---
