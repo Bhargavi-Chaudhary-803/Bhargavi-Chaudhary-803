@@ -12,7 +12,7 @@ Minimal, sharp, terminal-driven, 5 core components only
 ## boot.log
 ```bash
 Who Am I          :: Bhargavi Chaudhary
-My Current Role   :: CSE Student
+My Current Role   :: CSE Freshman @ Manipal University Jaipur
 Love Focusing On  :: DSA | Data | UI/UX | AI
 My Work Screams   :: minimal, fast, intentional
 ```
