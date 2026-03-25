@@ -53,6 +53,18 @@ signal  :: consistency > noise
 </p>
 
 <p align="center">
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=EEE0CB&labelColor=4D8B31"/>
+  </a>
+  <a href="https://github.com/Bhargavi-Chaudhary-803">
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=EEE0CB&labelColor=4D8B31"/>
+  </a>
+  <a href="https://leetcode.com/u/bhargavi-chaudhary-803">
+    <img src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=EEE0CB&labelColor=4D8B31"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Bhargavi-Chaudhary-803">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=EEE0CB&labelColor=4D8B31" />
   </a>
