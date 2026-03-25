@@ -12,7 +12,8 @@ Minimal, sharp, terminal-driven, 5 core components only
 
 
 ## boot.log
-```bash
+```html
+<pre style="font-family: 'JetBrains Mono', monospace; font-size: 20px; line-height: 1.6; color: #EEE0CB;">
 Who Am I  :: Bhargavi Chaudhary
 My Current Role   :: CSE Student
 Love Focusing On  :: DSA | Data | UI/UX | AI
@@ -31,7 +32,8 @@ My Work Screams  :: minimal, fast, intentional
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,supabase,figma,ps" />
 </p>
 
-```bash
+```html
+<pre style="font-family: 'JetBrains Mono', monospace; font-size: 20px; line-height: 1.6; color: #EEE0CB;">
 status  :: learning DSA | advanced python | DBMS
 focus   :: problem solving | UI systems | open source
 signal  :: consistency > noise
@@ -43,7 +45,8 @@ signal  :: consistency > noise
   <img src="https://leetcard.jacoblin.cool/bhargavi-chaudhary-803?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
-```bash
+```html
+<pre style="font-family: 'JetBrains Mono', monospace; font-size: 20px; line-height: 1.6; color: #EEE0CB;">
 leetcode :: active
 mode     :: streak / consistency / pattern solving
 ```
@@ -69,7 +72,3 @@ mode     :: streak / consistency / pattern solving
     <img src="https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=EEE0CB&labelColor=4D8B31" />
   </a>
 </p>
-
-```bash
-bhargavi@github:~$ echo "code that breathes"
-```
