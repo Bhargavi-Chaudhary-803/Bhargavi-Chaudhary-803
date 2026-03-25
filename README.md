@@ -19,55 +19,39 @@ Love Focusing On  :: DSA | Data | UI/UX | AI
 My Work Screams  :: minimal, fast, intentional
 ```
 
+## stack.panel
+
 ## / stack.panel
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EEE0CB&labelColor=4D8B31" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=EEE0CB&labelColor=4D8B31" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=EEE0CB&labelColor=4D8B31" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=EEE0CB&labelColor=4D8B31" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=EEE0CB&labelColor=4D8B31" />
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=EEE0CB&labelColor=4D8B31" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
 ```bash
-status  :: actively learning DSA | advanced python | DBMS
+status  :: learning DSA | advanced python | DBMS
 focus   :: problem solving | UI systems | open source
 signal  :: consistency > noise
-
-## metrics.panel
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhargavi-Chaudhary-803&show_icons=true&theme=transparent&title_color=EEE0CB&text_color=EEE0CB&icon_color=4D8B31&border_color=4D8B31&bg_color=000000" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Bhargavi-Chaudhary-803&theme=dark&background=000000&ring=4D8B31&fire=EEE0CB&currStreakLabel=EEE0CB&sideLabels=EEE0CB&dates=EEE0CB&border=4D8B31" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhargavi-Chaudhary-803&label=terminal_views&color=4D8B31&style=flat" />
-</p>
-
-
+```
 
 ## dsa.panel
 
