@@ -11,10 +11,10 @@ Minimal, sharp, terminal-driven, 5 core components only
 
 ## boot.log
 ```bash
-Who Am I  :: Bhargavi Chaudhary
+Who Am I          :: Bhargavi Chaudhary
 My Current Role   :: CSE Student
 Love Focusing On  :: DSA | Data | UI/UX | AI
-My Work Screams  :: minimal, fast, intentional
+My Work Screams   :: minimal, fast, intentional
 ```
 
 ## stack.panel
