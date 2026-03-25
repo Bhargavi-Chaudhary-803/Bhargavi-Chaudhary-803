@@ -9,7 +9,7 @@ Minimal, sharp, terminal-driven, 5 core components only
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=100000&color=EEE0CB&center=true&vCenter=true&width=700&repeat=false&lines=Greetings+Folks!+I+am+Bhargavi+Chaudhary" />
 </p>
 
----
+
 
 ## boot.log
 ```bash
@@ -19,7 +19,7 @@ Love Focusing On  :: DSA | Data | UI/UX | AI
 My Work Screams  :: minimal, fast, intentional
 ```
 
----
+
 
 ## metrics.panel
 
@@ -32,7 +32,7 @@ My Work Screams  :: minimal, fast, intentional
   <img src="https://komarev.com/ghpvc/?username=Bhargavi-Chaudhary-803&label=terminal_views&color=4D8B31&style=flat" />
 </p>
 
----
+
 
 ## dsa.panel
 
@@ -45,8 +45,6 @@ leetcode :: active
 mode     :: streak / consistency / pattern solving
 ```
 
----
-
 ## activity.panel
 
 <p align="center">
@@ -56,8 +54,6 @@ mode     :: streak / consistency / pattern solving
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargavi-Chaudhary-803&bg_color=000000&color=EEE0CB&line=4D8B31&point=EEE0CB&area=true&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/Bhargavi-Chaudhary-803">
