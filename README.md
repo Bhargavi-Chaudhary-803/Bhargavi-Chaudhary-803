@@ -13,7 +13,7 @@ Minimal, sharp, terminal-driven, 5 core components only
 ## core.panel
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bhargavi%20Chaudhary&text2=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&width=800&height=200" alt="core panel" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bhargavi%20Chaudhary&text2=CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&width=800&height=200" />
 </p>
 
 ```bash
