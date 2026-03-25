@@ -55,7 +55,6 @@ signal  :: consistency > noise
 ## contact.node
 
 ```bash
-bhargavi@node:~$ ping --connect
 
 email     -> bhargavichaudhary803@gmail.com
 github    -> Bhargavi-Chaudhary-803
