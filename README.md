@@ -43,13 +43,14 @@ signal  :: consistency > noise
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/output/github-contribution-grid-snake.svg" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhargavi-Chaudhary-803/Bhargavi-Chaudhary-803/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargavi-Chaudhary-803&bg_color=000000&color=EEE0CB&line=4D8B31&point=EEE0CB&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargavi-Chaudhary-803&bg_color=000000&color=EEE0CB&line=4D8B31&point=EEE0CB&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ## Reach Out! 📞
